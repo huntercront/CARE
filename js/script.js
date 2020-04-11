@@ -89,7 +89,7 @@ jQuery(document).on('keyup',function(evt) {
 				// Необходимо указать данный тип макета.
 				iconLayout: 'default#image',
 				// Своё изображение иконки метки.
-				iconImageHref: '../img/pin.svg',
+				iconImageHref: './img/pin.svg',
 				// Размеры метки.
 				iconImageSize: [54, 54],
 				iconImageOffset: [-27,-27]
